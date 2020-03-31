@@ -4,4 +4,4 @@ include requirements.txt
 graft is_number
 recursive-exclude * *.py[co]
 include versioneer.py
-include is_number/_version.py
+include is_number/_version.pyinclude stis_number/_version.py
