@@ -1,0 +1,7 @@
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+is-number==0+untagged.2.gccc5418.dirty
+requests==2.22.0
+urllib3==1.25.8
+versioneer==0.18
