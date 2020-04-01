@@ -1,4 +1,4 @@
-is-number
+stis-number
 ==========
 
 .. image:: https://img.shields.io/v/stis-number
@@ -9,6 +9,6 @@ A Python library to determine if something is a number.
 Installation
 -------------
 
-.. code-bloci:: bash
+.. code-block:: bash
    
 	pip install stis-number
