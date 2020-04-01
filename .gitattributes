@@ -1,2 +1,3 @@
 _version.py export-subst
 is_number/_version.py export-subst
+stis_number/_version.py export-subst
